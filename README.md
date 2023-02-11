@@ -1,2 +1,2 @@
 # littleGameProj
-https://github.com/bernasVeroli/littleGameProj/blob/master/index.html
+https://htmlpreview.github.io/?https://github.com/bernasVeroli/littleGameProj/blob/master/index.html
